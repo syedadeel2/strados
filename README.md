@@ -1,5 +1,7 @@
 # Strados [![Build Status](https://travis-ci.org/nsamala/strados.svg?branch=master)](https://travis-ci.org/nsamala/strados)
-Core library in Strados that transforms car data (On-Board Diagnostics 2) into human readable data.
+.NetStandard 2.0 library in Strados that transforms car data (On-Board Diagnostics 2) into human readable data.
+
+I'm not a actual author of this source code, I have just converted this to .netstandard for code sharing.
 
 ## The Details
 ### Strados OBD Library
