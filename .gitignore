@@ -181,3 +181,4 @@ ClientBin/
 *.publishsettings
 node_modules/
 bower_components/
+/.vs

@@ -175,7 +175,7 @@ namespace Strados.Obd
                 var fs2 = Convert.ToInt32(binary.Substring(4, 4), 2);
                 FuelSystemStatuses.Add(new FuelSystemStatus(fs2));
             }
-            catch (Exception err)
+            catch (Exception)
             { }
 
             return FuelSystemStatuses;
